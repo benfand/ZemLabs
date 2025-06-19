@@ -1,0 +1,98 @@
+__Lrdata 26 FFFFFFDD DATA
+__Hrbss 26 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFDD DATA
+__Hirdata 26 FFFFFFDD DATA
+__Lirdata 26 FFFFFFDD DATA
+powerup D7 0 CODE
+__Htext 26 0
+__Ltext 26 0
+__Hcode 26 0
+__Lcode 26 0
+ldb_r0 116 0 CODE
+ldc_r0 112 0 CODE
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 26 0 XDATA
+ldb_r1 123 0 CODE
+ldc_r1 11F 0 CODE
+__Hbss 26 0 XDATA
+__Hstrings 107 0 CODE
+ldb_r2 130 0 CODE
+ldc_r2 12C 0 CODE
+__Lbss 26 0 XDATA
+__Lstrings 100 0 CODE
+ldb_r3 13D 0 CODE
+ldc_r3 139 0 CODE
+ldb_r4 14A 0 CODE
+ldc_r4 146 0 CODE
+ldb_r5 157 0 CODE
+ldc_r5 153 0 CODE
+__S0 17A 0
+ldb_r6 164 0 CODE
+ldc_r6 160 0 CODE
+ldb_r7 171 0 CODE
+ldc_r7 16D 0 CODE
+start1 C3 0 CODE
+__Hnvram 26 0 XDATA
+small_model 1 0
+__Lnvram 26 0 XDATA
+ldc_byte 107 0 CODE
+__Hheap 26 0 XDATA
+__Lheap 26 0 XDATA
+_main 3 0 CODE
+?a_main 20 0 DATA
+_exit D4 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 26 0 DATA
+__Hidata 26 0 DATA
+__Lidata 26 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFDD DATA
+__Hrdata 26 FFFFFFDD DATA
+%segments
+vectors 0 D9 CODE
+rbit 0 5 BITSEG
+data 100 179 CODE
+%locals
+C:\Users\class\Desktop\p3\p3\p3\main_0.obj
+C:\Users\class\Desktop\p3\p4\p3\main.c
+3 3 0 CODE
+5 6 0 CODE
+7 C 0 CODE
+8 F 0 CODE
+9 12 0 CODE
+10 15 0 CODE
+11 18 0 CODE
+12 1B 0 CODE
+14 1E 0 CODE
+16 23 0 CODE
+17 31 0 CODE
+18 34 0 CODE
+19 37 0 CODE
+21 3A 0 CODE
+24 3F 0 CODE
+26 54 0 CODE
+27 65 0 CODE
+28 68 0 CODE
+24 6B 0 CODE
+31 81 0 CODE
+32 84 0 CODE
+33 87 0 CODE
+35 8A 0 CODE
+36 92 0 CODE
+37 99 0 CODE
+38 9C 0 CODE
+39 9F 0 CODE
+36 A2 0 CODE
+15 BC 0 CODE
+44 BF 0 CODE

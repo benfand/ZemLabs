@@ -1,0 +1,78 @@
+__Lrdata 2E FFFFFFD5 DATA
+__Hrbss 2E 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 9A 0 CODE
+__Birdata 3 FFFFFFD5 DATA
+__Hirdata 2E FFFFFFD5 DATA
+__Lirdata 2E FFFFFFD5 DATA
+powerup EF 0 CODE
+__Htext 2E 0
+__Ltext 2E 0
+strx_copy B0 0 CODE
+__Hcode 2E 0
+__Lcode 2E 0
+__Hdata 10B 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2E 0 XDATA
+__Hbss 2E 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 2E 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 9A 0 CODE
+__S0 10B 0
+start1 DB 0 CODE
+__Hnvram 2E 0 XDATA
+small_model 1 0
+__Lnvram 2E 0 XDATA
+__Hheap 2E 0 XDATA
+__Lheap 2E 0 XDATA
+_main 3 0 CODE
+str_copy B0 0 CODE
+?a_main 20 0 DATA
+_exit EC 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load B0 0 CODE
+__Brbit 20 20 BITSEG
+str_load B0 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2E 0 DATA
+__Hidata 2E 0 DATA
+__Lidata 2E 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD5 DATA
+__Hrdata 2E FFFFFFD5 DATA
+%segments
+vectors 0 F1 CODE
+rbit 0 D BITSEG
+data 100 10A CODE
+%locals
+Z:\main_0.obj
+C:\Users\danii\OneDrive\F0A5~1\practic2\PR2\PR2\main.c
+3 3 0 CODE
+18 6 0 CODE
+21 15 0 CODE
+22 18 0 CODE
+23 1B 0 CODE
+26 1E 0 CODE
+28 2D 0 CODE
+30 31 0 CODE
+31 40 0 CODE
+30 42 0 CODE
+32 4E 0 CODE
+35 50 0 CODE
+36 5A 0 CODE
+38 5E 0 CODE
+39 61 0 CODE
+40 6B 0 CODE
+41 7A 0 CODE
+40 7C 0 CODE
+26 88 0 CODE
+24 94 0 CODE
+45 96 0 CODE
